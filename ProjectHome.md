@@ -1,0 +1,1 @@
+This is the client-side programming interface to a cache invalidation service being developed at Google.
